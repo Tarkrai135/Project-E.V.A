@@ -1,0 +1,756 @@
+fileFormatVersion: 2
+guid: ab78095c785114049b6df0c5ffa44306
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7743716492357324365
+    second: IdlePropulsor (1)_0
+  - first:
+      213: 8357868328013453970
+    second: IdlePropulsor (1)_1
+  - first:
+      213: 5005051529678604915
+    second: IdlePropulsor (1)_2
+  - first:
+      213: -2823629034859578413
+    second: IdlePropulsor (1)_3
+  - first:
+      213: 7817015840166977759
+    second: IdlePropulsor (1)_4
+  - first:
+      213: -343773005585570468
+    second: IdlePropulsor (1)_5
+  - first:
+      213: 4369305636292170232
+    second: IdlePropulsor (1)_6
+  - first:
+      213: 1583792540686030478
+    second: IdlePropulsor (1)_7
+  - first:
+      213: -3976541887222055577
+    second: IdlePropulsor (1)_8
+  - first:
+      213: -3453848804043743119
+    second: IdlePropulsor (1)_9
+  - first:
+      213: 5969898726220553822
+    second: IdlePropulsor (1)_10
+  - first:
+      213: 6688971292724370927
+    second: IdlePropulsor (1)_11
+  - first:
+      213: -1228114253095844480
+    second: IdlePropulsor (1)_12
+  - first:
+      213: -7009941701321243838
+    second: IdlePropulsor (1)_13
+  - first:
+      213: -4081380793201611116
+    second: IdlePropulsor (1)_14
+  - first:
+      213: 29601095397296979
+    second: IdlePropulsor (1)_15
+  - first:
+      213: -5090849605974014978
+    second: IdlePropulsor (1)_16
+  - first:
+      213: 6452456892322503288
+    second: IdlePropulsor (1)_17
+  - first:
+      213: 5665707488477992535
+    second: IdlePropulsor (1)_18
+  - first:
+      213: -5058530159814823595
+    second: IdlePropulsor (1)_19
+  - first:
+      213: -2940129126513588247
+    second: IdlePropulsor (1)_20
+  - first:
+      213: 2304282254975445616
+    second: IdlePropulsor (1)_21
+  - first:
+      213: 8614806828324558142
+    second: IdlePropulsor (1)_22
+  - first:
+      213: 1763782353568737414
+    second: IdlePropulsor (1)_23
+  - first:
+      213: 3248711743136342725
+    second: IdlePropulsor (1)_24
+  - first:
+      213: 7962950609098131500
+    second: IdlePropulsor (1)_25
+  - first:
+      213: -8940005636094798743
+    second: IdlePropulsor (1)_26
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: IdlePropulsor (1)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7200
+        width: 1500
+        height: 1800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b135bfc0eac88490800000000000000
+      internalID: -7743716492357324365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdlePropulsor (1)_1
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 7200
+        width: 1500
+        height: 1800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29adab266fc1df370800000000000000
+      internalID: 8357868328013453970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdlePropulsor (1)_2
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 7200
+        width: 1500
+        height: 1800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37ac40d29d3857540800000000000000
+      internalID: 5005051529678604915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdlePropulsor (1)_3
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 7200
+        width: 1500
+        height: 1800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3db37bf5a5470d8d0800000000000000
+      internalID: -2823629034859578413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdlePropulsor (1)_4
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 7200
+        width: 1500
+        height: 1800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd021c48d7e9b7c60800000000000000
+      internalID: 7817015840166977759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdlePropulsor (1)_5
+      rect:
+        serializedVersion: 2
+        x: 7500
+        y: 7200
+        width: 1500
+        height: 1800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5524b6d54caa3bf0800000000000000
+      internalID: -343773005585570468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdlePropulsor (1)_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5400
+        width: 1500
+        height: 1800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f19e4e9354e2ac30800000000000000
+      internalID: 4369305636292170232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdlePropulsor (1)_7
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 5400
+        width: 1500
+        height: 1800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e861189ace2caf510800000000000000
+      internalID: 1583792540686030478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdlePropulsor (1)_8
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 5400
+        width: 1500
+        height: 1800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76dfaa1e83c70d8c0800000000000000
+      internalID: -3976541887222055577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdlePropulsor (1)_9
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 5400
+        width: 1500
+        height: 1800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 170a01fdfc67110d0800000000000000
+      internalID: -3453848804043743119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdlePropulsor (1)_10
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 5400
+        width: 1500
+        height: 1800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5ede69f24759d250800000000000000
+      internalID: 5969898726220553822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdlePropulsor (1)_11
+      rect:
+        serializedVersion: 2
+        x: 7500
+        y: 5400
+        width: 1500
+        height: 1800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed1f9773fff3dc50800000000000000
+      internalID: 6688971292724370927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdlePropulsor (1)_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3600
+        width: 1500
+        height: 1800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 085c0a8f79cd4fee0800000000000000
+      internalID: -1228114253095844480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdlePropulsor (1)_13
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 3600
+        width: 1500
+        height: 1800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 243cc84b92fa7be90800000000000000
+      internalID: -7009941701321243838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdlePropulsor (1)_14
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 3600
+        width: 1500
+        height: 1800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ead1ceac50c57c0800000000000000
+      internalID: -4081380793201611116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdlePropulsor (1)_15
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 3600
+        width: 1500
+        height: 1800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35b4e181a0a296000800000000000000
+      internalID: 29601095397296979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdlePropulsor (1)_16
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 3600
+        width: 1500
+        height: 1800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef34bfe714ba959b0800000000000000
+      internalID: -5090849605974014978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdlePropulsor (1)_17
+      rect:
+        serializedVersion: 2
+        x: 7500
+        y: 3600
+        width: 1500
+        height: 1800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a57636b5bbb8950800000000000000
+      internalID: 6452456892322503288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdlePropulsor (1)_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1800
+        width: 1500
+        height: 1800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 756500c41f2a0ae40800000000000000
+      internalID: 5665707488477992535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdlePropulsor (1)_19
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1800
+        width: 1500
+        height: 1800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55133a2fe9d7cc9b0800000000000000
+      internalID: -5058530159814823595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdlePropulsor (1)_20
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1800
+        width: 1500
+        height: 1800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e7c06c03209237d0800000000000000
+      internalID: -2940129126513588247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdlePropulsor (1)_21
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 1800
+        width: 1500
+        height: 1800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07a2c0690847aff10800000000000000
+      internalID: 2304282254975445616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdlePropulsor (1)_22
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 1800
+        width: 1500
+        height: 1800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3515eaca21fd8770800000000000000
+      internalID: 8614806828324558142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdlePropulsor (1)_23
+      rect:
+        serializedVersion: 2
+        x: 7500
+        y: 1800
+        width: 1500
+        height: 1800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6882195a4b63a7810800000000000000
+      internalID: 1763782353568737414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdlePropulsor (1)_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1500
+        height: 1800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c228433e1eb51d20800000000000000
+      internalID: 3248711743136342725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdlePropulsor (1)_25
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 0
+        width: 1500
+        height: 1800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c284643b365128e60800000000000000
+      internalID: 7962950609098131500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdlePropulsor (1)_26
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 0
+        width: 1500
+        height: 1800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 964549a7d38bee380800000000000000
+      internalID: -8940005636094798743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

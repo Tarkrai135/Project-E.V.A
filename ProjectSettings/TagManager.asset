@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Square
+  - CheckPoint
+  - MilloraVisio
+  - MilloraPropulsor
+  - Glasses
+  - Mirror
+  - Diamond
+  - Lever
+  - Ground
+  - Wall
+  - Platform
+  - Furro
+  - BlockingRock
+  - Pigno
+  - InputAndButtons
+  - Rock
+  - Pinxo
+  - getGlasses
+  - PlatformSpecial
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - ObjectToDetect
+  - Water
+  - UI
+  - Ground
+  - Platforms
+  - Background
+  - Player
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BG
+    uniqueID: 2500824801
+    locked: 0
+  - name: Objects
+    uniqueID: 2371048063
+    locked: 0
+  - name: Player
+    uniqueID: 3731867047
+    locked: 0
+  - name: UI
+    uniqueID: 1120709751
+    locked: 0
+  - name: Particles
+    uniqueID: 3178793501
+    locked: 0

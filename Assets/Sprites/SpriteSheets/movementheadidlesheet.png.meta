@@ -1,0 +1,588 @@
+fileFormatVersion: 2
+guid: 7ad25df0b87677a478e83917618b2206
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4445798178830797172
+    second: movementheadidlesheet_0
+  - first:
+      213: -8687840944556804819
+    second: movementheadidlesheet_1
+  - first:
+      213: -6597880574050474563
+    second: movementheadidlesheet_2
+  - first:
+      213: -6963000976432866028
+    second: movementheadidlesheet_3
+  - first:
+      213: 4575483763514035030
+    second: movementheadidlesheet_4
+  - first:
+      213: -7166658786593560426
+    second: movementheadidlesheet_5
+  - first:
+      213: 7644448708161225605
+    second: movementheadidlesheet_6
+  - first:
+      213: 5397192918499930954
+    second: movementheadidlesheet_7
+  - first:
+      213: 2687757600932954227
+    second: movementheadidlesheet_8
+  - first:
+      213: 1164514664104327671
+    second: movementheadidlesheet_9
+  - first:
+      213: -4824568134042926771
+    second: movementheadidlesheet_10
+  - first:
+      213: 7059179157380333811
+    second: movementheadidlesheet_11
+  - first:
+      213: -4027967179530429262
+    second: movementheadidlesheet_12
+  - first:
+      213: 4353973998019959057
+    second: movementheadidlesheet_13
+  - first:
+      213: 7493548006018882181
+    second: movementheadidlesheet_14
+  - first:
+      213: 2000235617546034924
+    second: movementheadidlesheet_15
+  - first:
+      213: 8050279677615572071
+    second: movementheadidlesheet_16
+  - first:
+      213: 4890114652639161806
+    second: movementheadidlesheet_17
+  - first:
+      213: -2898446263554478652
+    second: movementheadidlesheet_18
+  - first:
+      213: 8817620955394589335
+    second: movementheadidlesheet_19
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: movementheadidlesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5400
+        width: 1500
+        height: 1800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 479c94883e5a2bd30800000000000000
+      internalID: 4445798178830797172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movementheadidlesheet_1
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 5400
+        width: 1500
+        height: 1800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d25f89ae0b69e6780800000000000000
+      internalID: -8687840944556804819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movementheadidlesheet_2
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 5400
+        width: 1500
+        height: 1800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db56541339e9f64a0800000000000000
+      internalID: -6597880574050474563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movementheadidlesheet_3
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 5400
+        width: 1500
+        height: 1800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d5505e0837e5f90800000000000000
+      internalID: -6963000976432866028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movementheadidlesheet_4
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 5400
+        width: 1500
+        height: 1800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b42dfad326f7f30800000000000000
+      internalID: 4575483763514035030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movementheadidlesheet_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3600
+        width: 1500
+        height: 1800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 698a8aeddc9ea8c90800000000000000
+      internalID: -7166658786593560426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movementheadidlesheet_6
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 3600
+        width: 1500
+        height: 1800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 583c4a91999861a60800000000000000
+      internalID: 7644448708161225605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movementheadidlesheet_7
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 3600
+        width: 1500
+        height: 1800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4331732d5ea6ea40800000000000000
+      internalID: 5397192918499930954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movementheadidlesheet_8
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 3600
+        width: 1500
+        height: 1800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37007f53c45dc4520800000000000000
+      internalID: 2687757600932954227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movementheadidlesheet_9
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 3600
+        width: 1500
+        height: 1800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f9fba9caef292010800000000000000
+      internalID: 1164514664104327671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movementheadidlesheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1800
+        width: 1500
+        height: 1800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d41c3bff7d0bb0db0800000000000000
+      internalID: -4824568134042926771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movementheadidlesheet_11
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1800
+        width: 1500
+        height: 1800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f00f71ea0e37f160800000000000000
+      internalID: 7059179157380333811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movementheadidlesheet_12
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1800
+        width: 1500
+        height: 1800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bc1829f039c918c0800000000000000
+      internalID: -4027967179530429262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movementheadidlesheet_13
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 1800
+        width: 1500
+        height: 1800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1195449684c6c6c30800000000000000
+      internalID: 4353973998019959057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movementheadidlesheet_14
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 1800
+        width: 1500
+        height: 1800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58a971e753e6ef760800000000000000
+      internalID: 7493548006018882181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movementheadidlesheet_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1500
+        height: 1800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee5aea42b342cb10800000000000000
+      internalID: 2000235617546034924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movementheadidlesheet_16
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 0
+        width: 1500
+        height: 1800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76482dee6b658bf60800000000000000
+      internalID: 8050279677615572071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movementheadidlesheet_17
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 0
+        width: 1500
+        height: 1800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd6d7d1e5d2dd340800000000000000
+      internalID: 4890114652639161806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movementheadidlesheet_18
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 0
+        width: 1500
+        height: 1800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cde64cda76a6c7d0800000000000000
+      internalID: -2898446263554478652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movementheadidlesheet_19
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 0
+        width: 1500
+        height: 1800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 792c55a8a8b7e5a70800000000000000
+      internalID: 8817620955394589335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

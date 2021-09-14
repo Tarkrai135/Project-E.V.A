@@ -1,0 +1,996 @@
+fileFormatVersion: 2
+guid: 98fbcadcdc4012041b9ddf5998c31ba7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -115800909432393880
+    second: muerteheadsheet_0
+  - first:
+      213: -6138923284806284735
+    second: muerteheadsheet_1
+  - first:
+      213: -4384358170112176352
+    second: muerteheadsheet_2
+  - first:
+      213: 919300274761013155
+    second: muerteheadsheet_3
+  - first:
+      213: 2645627843224219674
+    second: muerteheadsheet_4
+  - first:
+      213: 4022088279741547261
+    second: muerteheadsheet_5
+  - first:
+      213: 1297528345892999487
+    second: muerteheadsheet_6
+  - first:
+      213: 7002982423281136643
+    second: muerteheadsheet_7
+  - first:
+      213: -3640525600143458623
+    second: muerteheadsheet_8
+  - first:
+      213: -771303505308342291
+    second: muerteheadsheet_9
+  - first:
+      213: -6069192583540227844
+    second: muerteheadsheet_10
+  - first:
+      213: -973405045157431952
+    second: muerteheadsheet_11
+  - first:
+      213: -584869996314073740
+    second: muerteheadsheet_12
+  - first:
+      213: 6481377525505764868
+    second: muerteheadsheet_13
+  - first:
+      213: -4705300292708822963
+    second: muerteheadsheet_14
+  - first:
+      213: -5354758808360635526
+    second: muerteheadsheet_15
+  - first:
+      213: -6218520288017722834
+    second: muerteheadsheet_16
+  - first:
+      213: -6301908240591509410
+    second: muerteheadsheet_17
+  - first:
+      213: -2156804669286018356
+    second: muerteheadsheet_18
+  - first:
+      213: 7019148008877702910
+    second: muerteheadsheet_19
+  - first:
+      213: -7781129046058819274
+    second: muerteheadsheet_20
+  - first:
+      213: 2847670793203993907
+    second: muerteheadsheet_21
+  - first:
+      213: 6790550548146497565
+    second: muerteheadsheet_22
+  - first:
+      213: -9019422902997519787
+    second: muerteheadsheet_23
+  - first:
+      213: 4837380587020592133
+    second: muerteheadsheet_24
+  - first:
+      213: 3452493485791231482
+    second: muerteheadsheet_25
+  - first:
+      213: -2502333361879136578
+    second: muerteheadsheet_26
+  - first:
+      213: 464993208236206336
+    second: muerteheadsheet_27
+  - first:
+      213: -7488749658956103028
+    second: muerteheadsheet_28
+  - first:
+      213: -7020808446708911940
+    second: muerteheadsheet_29
+  - first:
+      213: -2171623002864104592
+    second: muerteheadsheet_30
+  - first:
+      213: -3232240231453373650
+    second: muerteheadsheet_31
+  - first:
+      213: 4231159556987986782
+    second: muerteheadsheet_32
+  - first:
+      213: 28055799154266071
+    second: muerteheadsheet_33
+  - first:
+      213: 7025568514987480888
+    second: muerteheadsheet_34
+  - first:
+      213: 5196010199666855320
+    second: muerteheadsheet_35
+  - first:
+      213: 4424896775773680979
+    second: muerteheadsheet_36
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: muerteheadsheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9000
+        width: 1500
+        height: 1800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86f6d98bfa7946ef0800000000000000
+      internalID: -115800909432393880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerteheadsheet_1
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 9000
+        width: 1500
+        height: 1800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a4fb14cc92ecaa0800000000000000
+      internalID: -6138923284806284735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerteheadsheet_2
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 9000
+        width: 1500
+        height: 1800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02fc16e3971a723c0800000000000000
+      internalID: -4384358170112176352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerteheadsheet_3
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 9000
+        width: 1500
+        height: 1800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a79c0faab202cc00800000000000000
+      internalID: 919300274761013155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerteheadsheet_4
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 9000
+        width: 1500
+        height: 1800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a10334b918827b420800000000000000
+      internalID: 2645627843224219674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerteheadsheet_5
+      rect:
+        serializedVersion: 2
+        x: 7500
+        y: 9000
+        width: 1500
+        height: 1800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df2c1410bf351d730800000000000000
+      internalID: 4022088279741547261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerteheadsheet_6
+      rect:
+        serializedVersion: 2
+        x: 9000
+        y: 9000
+        width: 1500
+        height: 1800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f31d3fee72fb10210800000000000000
+      internalID: 1297528345892999487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerteheadsheet_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7200
+        width: 1500
+        height: 1800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 304f9fb19679f2160800000000000000
+      internalID: 7002982423281136643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerteheadsheet_8
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 7200
+        width: 1500
+        height: 1800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cebbb741414a7dc0800000000000000
+      internalID: -3640525600143458623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerteheadsheet_9
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 7200
+        width: 1500
+        height: 1800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de725186c87cb45f0800000000000000
+      internalID: -771303505308342291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerteheadsheet_10
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 7200
+        width: 1500
+        height: 1800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf046a05085e5cba0800000000000000
+      internalID: -6069192583540227844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerteheadsheet_11
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 7200
+        width: 1500
+        height: 1800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07571dcc445cd72f0800000000000000
+      internalID: -973405045157431952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerteheadsheet_12
+      rect:
+        serializedVersion: 2
+        x: 7500
+        y: 7200
+        width: 1500
+        height: 1800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4756aed46df12e7f0800000000000000
+      internalID: -584869996314073740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerteheadsheet_13
+      rect:
+        serializedVersion: 2
+        x: 9000
+        y: 7200
+        width: 1500
+        height: 1800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ea8f6058a72f950800000000000000
+      internalID: 6481377525505764868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerteheadsheet_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5400
+        width: 1500
+        height: 1800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d409c83405a63beb0800000000000000
+      internalID: -4705300292708822963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerteheadsheet_15
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 5400
+        width: 1500
+        height: 1800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7335c90c3310b5b0800000000000000
+      internalID: -5354758808360635526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerteheadsheet_16
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 5400
+        width: 1500
+        height: 1800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e22d424ceb063b9a0800000000000000
+      internalID: -6218520288017722834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerteheadsheet_17
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 5400
+        width: 1500
+        height: 1800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e58af6818df1b88a0800000000000000
+      internalID: -6301908240591509410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerteheadsheet_18
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 5400
+        width: 1500
+        height: 1800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc29d4d949d7112e0800000000000000
+      internalID: -2156804669286018356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerteheadsheet_19
+      rect:
+        serializedVersion: 2
+        x: 7500
+        y: 5400
+        width: 1500
+        height: 1800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efebb0fcce5096160800000000000000
+      internalID: 7019148008877702910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerteheadsheet_20
+      rect:
+        serializedVersion: 2
+        x: 9000
+        y: 5400
+        width: 1500
+        height: 1800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 631a03adb50e30490800000000000000
+      internalID: -7781129046058819274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerteheadsheet_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3600
+        width: 1500
+        height: 1800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33dcd22bf75f48720800000000000000
+      internalID: 2847670793203993907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerteheadsheet_22
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 3600
+        width: 1500
+        height: 1800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d182b93eeb1ec3e50800000000000000
+      internalID: 6790550548146497565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerteheadsheet_23
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 3600
+        width: 1500
+        height: 1800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5527fcb18a294d280800000000000000
+      internalID: -9019422902997519787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerteheadsheet_24
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 3600
+        width: 1500
+        height: 1800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 504abbca304d12340800000000000000
+      internalID: 4837380587020592133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerteheadsheet_25
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 3600
+        width: 1500
+        height: 1800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afdbfe18888b9ef20800000000000000
+      internalID: 3452493485791231482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerteheadsheet_26
+      rect:
+        serializedVersion: 2
+        x: 7500
+        y: 3600
+        width: 1500
+        height: 1800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb6c597b01de54dd0800000000000000
+      internalID: -2502333361879136578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerteheadsheet_27
+      rect:
+        serializedVersion: 2
+        x: 9000
+        y: 3600
+        width: 1500
+        height: 1800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00963e7fbdcf37600800000000000000
+      internalID: 464993208236206336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerteheadsheet_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1800
+        width: 1500
+        height: 1800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c82081ebcdd921890800000000000000
+      internalID: -7488749658956103028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerteheadsheet_29
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1800
+        width: 1500
+        height: 1800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb07ad16ae3119e90800000000000000
+      internalID: -7020808446708911940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerteheadsheet_30
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1800
+        width: 1500
+        height: 1800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07bc7387268dcd1e0800000000000000
+      internalID: -2171623002864104592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerteheadsheet_31
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 1800
+        width: 1500
+        height: 1800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2bce7772a6c423d0800000000000000
+      internalID: -3232240231453373650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerteheadsheet_32
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 1800
+        width: 1500
+        height: 1800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e53a44e033918ba30800000000000000
+      internalID: 4231159556987986782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerteheadsheet_33
+      rect:
+        serializedVersion: 2
+        x: 7500
+        y: 1800
+        width: 1500
+        height: 1800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dfca76c99ca36000800000000000000
+      internalID: 28055799154266071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerteheadsheet_34
+      rect:
+        serializedVersion: 2
+        x: 9000
+        y: 1800
+        width: 1500
+        height: 1800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8375ff06755df7160800000000000000
+      internalID: 7025568514987480888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerteheadsheet_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1500
+        height: 1800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89d03783fbfeb1840800000000000000
+      internalID: 5196010199666855320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerteheadsheet_36
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 0
+        width: 1500
+        height: 1800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 355f2c76c24686d30800000000000000
+      internalID: 4424896775773680979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

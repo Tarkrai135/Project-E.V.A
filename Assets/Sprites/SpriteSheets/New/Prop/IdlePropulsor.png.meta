@@ -1,0 +1,756 @@
+fileFormatVersion: 2
+guid: e949efa7d29022743a18739ac45e21dd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6736611911480367675
+    second: IdlePropulsor_0
+  - first:
+      213: 3920893070000917892
+    second: IdlePropulsor_1
+  - first:
+      213: -2566445059861335452
+    second: IdlePropulsor_2
+  - first:
+      213: -4862555835046746143
+    second: IdlePropulsor_3
+  - first:
+      213: 4384678405647741958
+    second: IdlePropulsor_4
+  - first:
+      213: 8864350713374939647
+    second: IdlePropulsor_5
+  - first:
+      213: -4989811070657813047
+    second: IdlePropulsor_6
+  - first:
+      213: -649989075818147731
+    second: IdlePropulsor_7
+  - first:
+      213: 5480532124381096949
+    second: IdlePropulsor_8
+  - first:
+      213: 6838958614772794746
+    second: IdlePropulsor_9
+  - first:
+      213: -1059406473874312852
+    second: IdlePropulsor_10
+  - first:
+      213: -4940123184129024738
+    second: IdlePropulsor_11
+  - first:
+      213: 6916385520234375201
+    second: IdlePropulsor_12
+  - first:
+      213: 1492994213383809638
+    second: IdlePropulsor_13
+  - first:
+      213: -5609556657278240781
+    second: IdlePropulsor_14
+  - first:
+      213: 4402044952109115467
+    second: IdlePropulsor_15
+  - first:
+      213: 6853189066442271895
+    second: IdlePropulsor_16
+  - first:
+      213: -724764610053866934
+    second: IdlePropulsor_17
+  - first:
+      213: -4809770740189525610
+    second: IdlePropulsor_18
+  - first:
+      213: 333025448300995920
+    second: IdlePropulsor_19
+  - first:
+      213: 3886235682224103716
+    second: IdlePropulsor_20
+  - first:
+      213: 1390138240853510439
+    second: IdlePropulsor_21
+  - first:
+      213: 6931908928270379807
+    second: IdlePropulsor_22
+  - first:
+      213: 499243069611684509
+    second: IdlePropulsor_23
+  - first:
+      213: -1818639752081810370
+    second: IdlePropulsor_24
+  - first:
+      213: 52022806178038226
+    second: IdlePropulsor_25
+  - first:
+      213: 5423641164491287155
+    second: IdlePropulsor_26
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: IdlePropulsor_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10400
+        width: 1500
+        height: 2600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c52c8a982fb282a0800000000000000
+      internalID: -6736611911480367675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdlePropulsor_1
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 10400
+        width: 1500
+        height: 2600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d02bf297fc96630800000000000000
+      internalID: 3920893070000917892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdlePropulsor_2
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 10400
+        width: 1500
+        height: 2600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 462b86fc0d7226cd0800000000000000
+      internalID: -2566445059861335452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdlePropulsor_3
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 10400
+        width: 1500
+        height: 2600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e7298f1b3bb48cb0800000000000000
+      internalID: -4862555835046746143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdlePropulsor_4
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 10400
+        width: 1500
+        height: 2600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 604b5f667c189dc30800000000000000
+      internalID: 4384678405647741958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdlePropulsor_5
+      rect:
+        serializedVersion: 2
+        x: 7500
+        y: 10400
+        width: 1500
+        height: 2600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff9913b2200840b70800000000000000
+      internalID: 8864350713374939647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdlePropulsor_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7800
+        width: 1500
+        height: 2600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c52125b441a0cab0800000000000000
+      internalID: -4989811070657813047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdlePropulsor_7
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 7800
+        width: 1500
+        height: 2600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6099fb1166caf6f0800000000000000
+      internalID: -649989075818147731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdlePropulsor_8
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 7800
+        width: 1500
+        height: 2600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb2ad51ee2ce0c40800000000000000
+      internalID: 5480532124381096949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdlePropulsor_9
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 7800
+        width: 1500
+        height: 2600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a75412330acd8ee50800000000000000
+      internalID: 6838958614772794746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdlePropulsor_10
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 7800
+        width: 1500
+        height: 2600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c61f8fbcc6b3c41f0800000000000000
+      internalID: -1059406473874312852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdlePropulsor_11
+      rect:
+        serializedVersion: 2
+        x: 7500
+        y: 7800
+        width: 1500
+        height: 2600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1d515f4328217bb0800000000000000
+      internalID: -4940123184129024738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdlePropulsor_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5200
+        width: 1500
+        height: 2600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 128a93f6cffebff50800000000000000
+      internalID: 6916385520234375201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdlePropulsor_13
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 5200
+        width: 1500
+        height: 2600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66aa47ca35e28b410800000000000000
+      internalID: 1492994213383809638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdlePropulsor_14
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 5200
+        width: 1500
+        height: 2600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f7b08fd0f9d622b0800000000000000
+      internalID: -5609556657278240781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdlePropulsor_15
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 5200
+        width: 1500
+        height: 2600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b48e3c79f84371d30800000000000000
+      internalID: 4402044952109115467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdlePropulsor_16
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 5200
+        width: 1500
+        height: 2600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ce1eb652b6b1f50800000000000000
+      internalID: 6853189066442271895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdlePropulsor_17
+      rect:
+        serializedVersion: 2
+        x: 7500
+        y: 5200
+        width: 1500
+        height: 2600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4af6f75d6e11f5f0800000000000000
+      internalID: -724764610053866934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdlePropulsor_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2600
+        width: 1500
+        height: 2600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6998febbef2404db0800000000000000
+      internalID: -4809770740189525610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdlePropulsor_19
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 2600
+        width: 1500
+        height: 2600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 055652b71e42f9400800000000000000
+      internalID: 333025448300995920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdlePropulsor_20
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 2600
+        width: 1500
+        height: 2600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4216a6843ceaee530800000000000000
+      internalID: 3886235682224103716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdlePropulsor_21
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 2600
+        width: 1500
+        height: 2600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72982c26d53ca4310800000000000000
+      internalID: 1390138240853510439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdlePropulsor_22
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 2600
+        width: 1500
+        height: 2600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1b2ae48176133060800000000000000
+      internalID: 6931908928270379807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdlePropulsor_23
+      rect:
+        serializedVersion: 2
+        x: 7500
+        y: 2600
+        width: 1500
+        height: 2600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d92b7cc3deaade600800000000000000
+      internalID: 499243069611684509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdlePropulsor_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1500
+        height: 2600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3c52c2f7c4e2c6e0800000000000000
+      internalID: -1818639752081810370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdlePropulsor_25
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 0
+        width: 1500
+        height: 2600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d106727772d8b000800000000000000
+      internalID: 52022806178038226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdlePropulsor_26
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 0
+        width: 1500
+        height: 2600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37a60b647e4a44b40800000000000000
+      internalID: 5423641164491287155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
